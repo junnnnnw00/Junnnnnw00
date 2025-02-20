@@ -10,9 +10,11 @@
       src="https://img.shields.io/badge/jwhong@postech.ac.kr-C80150?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-<p>I'm student, programmer, and a designer at <a href="https://postech.ac.kr">POSTECH</a> 🧑🏻‍🦱 </p>
-<p>I love real-life applications of AI, and hope to be a part of it 🤖 </p>
-
+<p>
+  I'm student, programmer, and a designer at <a href="https://postech.ac.kr">POSTECH</a> 🧑🏻‍🦱 <br>
+  I love real-life applications of AI, and hope to be a part of it 🤖 
+</p>
+<br>
 
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junnnnnw00&layout=donut)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junnnnnw00&show_icons=true)
