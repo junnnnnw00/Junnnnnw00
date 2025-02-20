@@ -15,7 +15,7 @@
 
 
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junnnnnw00&layout=donut)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=junnnnnw00&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junnnnnw00&show_icons=true)
 
 <br>
 
